@@ -29,3 +29,18 @@ let ab =2
 let cd=String(ab)
 console.log(typeof cd);
 
+
+
+console.log(2+2);
+console.log("1"+2);
+console.log(1+2+"2");
+console.log(+true);
+console.log(+"");
+
+let gc=100
+++gc;
+console.log(gc);
+
+let g=100
+g++;
+console.log(g);
